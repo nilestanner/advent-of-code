@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "My solutions to the 2018 [Advent of code](https://adventofcode.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilestanner/advent-of-code.git"
+  },
+  "author": "Niles Tanner <niles.tanner@gmail.com> (https://www.nilestanner.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilestanner/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/nilestanner/advent-of-code#readme",
+  "dependencies": {
+    "moment": "^2.23.0"
+  }
+}
